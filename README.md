@@ -3,5 +3,6 @@
 </header>
 
 <div class="sis-test preparativos">
-  <modautoriz>Parágrafo dentro da DIV para ser capturado pelo sistema remoto</modautoriz>
+  <p>mod-autoriz</p>
+  <p>true</p>
 </div>
