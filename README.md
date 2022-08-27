@@ -3,6 +3,7 @@
 </header>
 
 <div class="sis-test preparativos">
-  <p>mod-autoriz</p>
+  <h2>mod-autoriz</h2>
   <p>true</p>
+  <p>Uso não autorizado!</p>
 </div>
