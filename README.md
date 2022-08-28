@@ -7,10 +7,3 @@
   <p>?true?</p>
   <p>&Sistema base</p>
 </div>
-
-<div class="outro sistema">
-  <h2>!outro-sistema!</h2>
-  <p>?true?</p>
-  <p>&outro sistema sendo usado&</p>
-</div>
-
